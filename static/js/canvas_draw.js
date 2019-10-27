@@ -69,7 +69,6 @@ const onPredict = (e) => {
 			imageBase64: image_url_base64
 		},
 		success: function(response){
-			// console.log(response)
 			$(predicted_result_text).text("Predicted Result: " + response);
 		}
 	});

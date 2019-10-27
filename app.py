@@ -58,6 +58,4 @@ def grab_image():
 	return str(prediction)
 
 if __name__ == '__main__':
-	#Threaded false is a workaround to a currently open bug in the Keras Framework that causes issues with Tensorflow and Flask
-	# app.run(host="0.0.0.0",port=5000)
 	app.run(debug=True, use_reloader=False)
