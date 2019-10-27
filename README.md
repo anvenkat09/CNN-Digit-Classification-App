@@ -4,10 +4,10 @@
 The model was a fairly simple implementation trained on the Mnist dataset (the weights can be found in the model_weights folder)
 
 Requirements:
-Tensorflow
-Keras
-Flask
-Python
+* Tensorflow
+* Keras
+* Flask
+* Python
 
 ![GitHub Logo](CNN_digit_classification_app_img.png)
 
