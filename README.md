@@ -12,4 +12,4 @@ Requirements:
 ![GitHub Logo](CNN_digit_classification_app_img.png)
 
 
-*I had a lot of fun building this app. For anyone interested in Computer Vision based Machine Learning, I highly recommend this as an excercise!* Thanks to Syed Moinudeen for the wonderful concept!
+*I had a lot of fun building this app. For anyone interested in Computer Vision based Machine Learning, I highly recommend this as an excercise!* Credits to Syed Moinudeen for the wonderful idea/concept!
